@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "mainframebot.com",
+    "description": "",
+    "home_page_url": "http://mainframebot.com",
+    "feed_url": "http://mainframebot.com/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Trevor Sumner"
+    },
+    "items": [
+    ]
+}
